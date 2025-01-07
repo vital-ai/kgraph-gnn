@@ -1,0 +1,16 @@
+build
+dist
+*.egg-info
+
+**/*.yaml
+
+test_output
+test_data_internal
+test_docbin
+
+**/.DS_Store
+
+.idea/
+**/__pycache__/
+
+vitalhome
