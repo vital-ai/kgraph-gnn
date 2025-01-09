@@ -14,3 +14,15 @@ test_docbin
 **/__pycache__/
 
 vitalhome
+
+dependencies
+
+gnn_models
+
+data
+
+test_data
+
+test/data
+
+
